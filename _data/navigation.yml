@@ -4,8 +4,8 @@ main:
     url: https://gumsu.github.io/about
   - title: "카테고리"
     url: https://gumsu.github.io/categories
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Tags"
+    url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
