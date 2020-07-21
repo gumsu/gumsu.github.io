@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "gumsu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Aisa/Seoul"
+  bio              : "기억보단 기록을 실천하는 개발자"
+  location         : "Korea, Seoul"
   email            :
   links:
     - label: "Email"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://gumsu.github.com/"
+       url: "https://github.com/gumsu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
